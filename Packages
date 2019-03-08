@@ -6,8 +6,6 @@ Depends: mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
 Filename: ./debfiles/com.spark.melior_1.0.8-1_iphoneos-arm.deb
 Size: 197048
 MD5sum: 2cf1cf7f243e917656bacc56f6edb55e
-SHA1: 1700bfcafc3c8c0d055656b73aff20379db49adc
-SHA256: db648ab9ae4594ae12424083932d6ed3f272d873f2d10a9355fbb53f6e40ee2e
 Section: Tweaks
 Description: Custom volume HUD
 Author: Spark & Dennis Bednarz
@@ -21,8 +19,6 @@ Depends: mobilesubstrate
 Filename: ./debfiles/com.muirey03.smallsiri_1.2.1_iphoneos-arm.deb
 Size: 197048
 MD5sum: 01737894b861faddbe122f8871534ea7
-SHA1: 2005a32ceb46a760eb5be8cbe61d9f1b959badd6
-SHA256: 13d9341850c17d61f3d8d9b9788babb31e4965e704cb029db9a878e313d6bbca
 Section: Tweaks
 Description: Make Siri smaller
 Author: Muirey03	
