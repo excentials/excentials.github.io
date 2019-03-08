@@ -13,4 +13,20 @@ Description: Custom volume HUD
 Author: Spark & Dennis Bednarz
 Name: Melior (custom volume HUD)
 
+Package: com.muirey03,smallsiri
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Muirey03
+Depends: mobilesubstrate
+Filename: ./debfiles/com.muirey03.smallsiri_1.2.1_iphoneos-arm.deb
+Size: 197048
+MD5sum: 01737894b861faddbe122f8871534ea7
+SHA1: 2005a32ceb46a760eb5be8cbe61d9f1b959badd6
+SHA256: 13d9341850c17d61f3d8d9b9788babb31e4965e704cb029db9a878e313d6bbca
+Section: Tweaks
+Description: Make Siri smaller
+Author: Muirey03	
+Name: Small Siri
+
+
 
