@@ -3,7 +3,7 @@ Version: 1.0.8-1
 Architecture: iphoneos-arm
 Maintainer: Excentials
 Depends: mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
-Filename: com.spark.melior_1.0.8-1_iphoneos-arm.deb
+Filename: ./debfiles/com.spark.melior_1.0.8-1_iphoneos-arm.deb
 Size: 197048
 MD5sum: 2cf1cf7f243e917656bacc56f6edb55e
 SHA1: 1700bfcafc3c8c0d055656b73aff20379db49adc
