@@ -1,0 +1,16 @@
+Package: com.spark.melior
+Version: 1.0.8-1
+Architecture: iphoneos-arm
+Maintainer: Excentials
+Depends: mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: com.spark.melior_1.0.8-1_iphoneos-arm.deb
+Size: 197048
+MD5sum: 2cf1cf7f243e917656bacc56f6edb55e
+SHA1: 1700bfcafc3c8c0d055656b73aff20379db49adc
+SHA256: db648ab9ae4594ae12424083932d6ed3f272d873f2d10a9355fbb53f6e40ee2e
+Section: Tweaks
+Description: Custom volume HUD
+Author: Spark & Dennis Bednarz
+Name: Melior (custom volume HUD)
+
+
