@@ -1,28 +1,28 @@
-Package: com.spark.melior
-Version: 1.0.8-1
-Architecture: iphoneos-arm
-Maintainer: Excentials
-Depends: mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
-Filename: ./debfiles/com.spark.melior_1.0.8-1_iphoneos-arm.deb
-Size: 197048
-MD5sum: 2cf1cf7f243e917656bacc56f6edb55e
+Package: com.supermamon.newpackage
+Version: 0.1a
 Section: Tweaks
-Description: Custom volume HUD
-Author: Spark & Dennis Bednarz
-Name: Melior (custom volume HUD)
-
-Package: com.muirey03,smallsiri
-Version: 1.2.1
+Maintainer: CrazyBloo <CrazyBloo@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
-Maintainer: Muirey03
-Depends: mobilesubstrate
-Filename: ./debfiles/com.muirey03.smallsiri_1.2.1_iphoneos-arm.deb
-Size: 197048
-MD5sum: 01737894b861faddbe122f8871534ea7
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: Modern Bytafont Alternative
+Name: Fontix (Disabled!)
+Author: CrazyBloo <crazybloogamimg@gmail.com>
+Depiction: https://crazybloo.github.io/depictions/?p=com.crazybloo.fontix
+
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
 Section: Tweaks
-Description: Make Siri smaller
-Author: Muirey03	
-Name: Small Siri
-
-
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: Old Package
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://crazybloo.github.io/depictions/?p=com.supermamon.oldpackage
 
